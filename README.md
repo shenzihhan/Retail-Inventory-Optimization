@@ -17,7 +17,7 @@ Using open-source inventory data from Kaggle, we developed a **linear programmin
 
 - **Solver-based Optimization:** Created an Excel LP model to solve for maximum profit under business constraints
 - **Discount Strategy Evaluation:** Tested multiple discount timing strategies across five categories
-- **Result:** Achieved a total profit of **$693,274** across 5 months
+- **Result:** Achieved a total profit of **$530,700** across 5 months
 
 ---
 
