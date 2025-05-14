@@ -1,6 +1,6 @@
 ## Retail Inventory Optimization Using Linear Programming
 
-This project applies **operations research** and **Excel Solver** techniques to optimize inventory and discount pricing strategies in a multi-category retail environment.
+This project applies **operations research** and **Linear Programming** techniques to optimize inventory and discount pricing strategies in a multi-category retail environment.
 
 Using open-source inventory data from Kaggle, we developed a **linear programming model** that determines:
 
