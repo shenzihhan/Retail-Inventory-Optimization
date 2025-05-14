@@ -2,7 +2,7 @@
 
 This project applies **operations research** and **Excel Solver** techniques to optimize inventory and discount pricing strategies in a multi-category retail environment.
 
-Using open-source inventory data from [Kaggle](https://www.kaggle.com/datasets), we developed a **linear programming model** that determines:
+Using open-source inventory data from Kaggle, we developed a **linear programming model** that determines:
 
 - When to **restock** and how much to order
 - When and where to offer **discounts** to stimulate sales
