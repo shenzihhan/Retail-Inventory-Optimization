@@ -52,7 +52,7 @@ Each category had unique cost structures, demand patterns, and holding constrain
 | File | Description |
 |------|-------------|
 | `filtered_retail_store_inventory.xlsx` | Processed inventory dataset with initial stock, costs, prices, and discount tracking |
-| `New1.pptx` | PowerPoint summary of methodology, model, and results |
+| `Project Slides.pptx` | PowerPoint summary of methodology, model, and results |
 | `README.md` | Project overview with links and visual summaries |
 
 ---
